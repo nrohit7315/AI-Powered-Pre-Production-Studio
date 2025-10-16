@@ -1,0 +1,2 @@
+# AI-Powered-Pre-Production-Studio
+Develop an AI-Powered Pre-Production Studio—a unified web platform that helps creators  organize research, auto-transcribe interviews, generate script suggestions, and maintain visual  storyboards in one seamless interface
